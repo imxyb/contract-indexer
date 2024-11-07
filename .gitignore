@@ -26,10 +26,5 @@ go.work
 
 # Server
 *.log
-firefly-player-service
-firefly-player
 config.yaml
-config-local.yaml
-config-master.yaml
-config-prod.yaml
 /config/locales/
